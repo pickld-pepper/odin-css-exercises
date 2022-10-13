@@ -21,6 +21,10 @@ body {
   background: #e3f4ff;
   margin-top: 8px;
   margin-bottom: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 .button-container {
