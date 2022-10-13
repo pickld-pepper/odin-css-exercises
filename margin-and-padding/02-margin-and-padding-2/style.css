@@ -28,11 +28,19 @@ body {
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
   margin: 0px;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
